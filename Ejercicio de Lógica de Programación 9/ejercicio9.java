@@ -30,6 +30,16 @@ public class ejercicio9 {
         traduccion.put("tiburon","shark");
         traduccion.put("burro","donkey");
         traduccion.put("mono","monkey");
+        traduccion.put("aguila","eagle");
+        traduccion.put("oso","bear");
+        traduccion.put("jaguar","jaguar");
+        traduccion.put("rana","frog");
+        traduccion.put("ave","bird");
+        traduccion.put("pez","fish");
+        traduccion.put("caiman","alligator");
+        traduccion.put("pollo","chicken");
+        traduccion.put("vaca","cow");
+        traduccion.put("pavo","turkey");
 
 		Scanner palabra = new Scanner(System.in);
 		System.out.println("Escribe un animal: ");
